@@ -1,6 +1,6 @@
 # hello-world
 
-Testing commits to readme file.
+Testing commits.
 
 
 Just another repository
