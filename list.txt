@@ -1,3 +1,5 @@
 pencil
-paper
+string
 pen
+glue
+tape
