@@ -1,5 +1,6 @@
 pencil
-string
-pen
-glue
 tape
+paper
+pens
+glue
+hammer
