@@ -7,3 +7,15 @@ last chage
 one more change
 
 This was committed as part of the name-feature branch.
+
+first change as part of new-feature branch.
+
+second change as part of new-feature branch.
+
+third change as part of new-feature branch.
+
+5th change as part of new-feature branch.  after first pull request.
+
+6th change as part of new-feature branch.  after first pull request.
+
+7th change as part of new-feature branch.  after first pull request.
