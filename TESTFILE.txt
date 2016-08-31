@@ -5,3 +5,5 @@ another test file
 last chage
 
 one more change
+
+This was committed as part of the name-feature branch.
