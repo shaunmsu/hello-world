@@ -4,3 +4,6 @@ paper
 pens
 glue
 hammer
+staple - commit 1
+plate - commit 2
+desk - commit 4

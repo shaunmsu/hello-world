@@ -2,3 +2,4 @@ black
 blue
 white
 red
+gray - commit 3
